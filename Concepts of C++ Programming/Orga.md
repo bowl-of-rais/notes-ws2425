@@ -1,0 +1,4 @@
+- [ ] TODO setup 🆔 fxwm2u 📅 2024-10-20
+- [ ] TODO exercise 1 ⛔ fxwm2u 📅 2024-10-20
+- [x] TODO setup notes 📅 2024-10-20 ✅ 2024-10-18
+- [ ] TODO watch lecture 1 📅 2024-10-21 

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Cloud-Based Data Processing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361535
+      }
+    },
+    {
+      "query": "path:\"Intro to Quantum Computing\"",
+      "color": {
+        "a": 1,
+        "rgb": 8427007
+      }
+    },
+    {
+      "query": "path:\"LLMs & Human Language Use\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16763243
+      }
+    },
+    {
+      "query": "path:\"Networks for Monetary Transactions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431492
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.49736022742656,
+  "repelStrength": 12.8062813049953,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6872212147093861,
+  "close": true
+}
