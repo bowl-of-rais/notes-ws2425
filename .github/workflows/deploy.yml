@@ -16,20 +16,21 @@ concurrency:
  
 jobs:
 
-  merge-branch:
+  copy-to-branches:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-
-      - name: Merge main -> quartz-v4
-        uses: devmasx/merge-branch@master
+      - uses: actions/checkout@v2
         with:
-          type: now
-          target_branch: quartz-v4
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      - name: Copy To Branches Action
+        uses: planetoftheweb/copy-to-branches@v1
+        env:
+          key: main
+          files: content/
+          branches: quartz-q4
 
   build:
-    needs: merge-branch
+    needs: copy-to-branches
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
