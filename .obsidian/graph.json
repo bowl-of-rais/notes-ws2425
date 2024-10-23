@@ -1,17 +1,38 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Cloud-Based Data Processing\"  ",
       "color": {
         "a": 1,
         "rgb": 11361535
+      }
+    },
+    {
+      "query": "path:\"Intro to Quantum Computing/1. Math\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1586111
+      }
+    },
+    {
+      "query": "path:\"Intro to Quantum Computing/Exercise\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8021723
+      }
+    },
+    {
+      "query": "path:\"Networks for Monetary Transactions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431492
       }
     },
     {
@@ -25,14 +46,7 @@
       "query": "path:\"LLMs & Human Language Use\"  ",
       "color": {
         "a": 1,
-        "rgb": 16763243
-      }
-    },
-    {
-      "query": "path:\"Networks for Monetary Transactions\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431492
+        "rgb": 14729554
       }
     }
   ],
@@ -45,7 +59,7 @@
   "centerStrength": 0.49736022742656,
   "repelStrength": 12.8062813049953,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 162,
   "scale": 0.6872212147093861,
   "close": true
 }

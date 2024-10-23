@@ -421,7 +421,7 @@
       "color": "D_9TiMY4TKTCilaukDdhB"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/spherical coordinates.md",
+      "path": "Intro to Quantum Computing/1. Math/trigonometry/spherical coordinates.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
@@ -429,19 +429,19 @@
       "color": "eVysdvDbQ2c6LagFwycEE"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/complex numbers.md",
+      "path": "Intro to Quantum Computing/1. Math/complex numbers/complex numbers.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/Hilbert space.md",
+      "path": "Intro to Quantum Computing/1. Math/vector spaces/Hilbert space.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/Euler's formula.md",
+      "path": "Intro to Quantum Computing/1. Math/trigonometry/Euler's formula.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/polar coordinates.md",
+      "path": "Intro to Quantum Computing/1. Math/trigonometry/polar coordinates.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
@@ -465,31 +465,27 @@
       "color": "UgqQ5ACnODCVx8kjfXPcB"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/unitary operators.md",
+      "path": "Intro to Quantum Computing/1. Math/vector spaces/unitary operators.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/rotational matrix.md",
+      "path": "Intro to Quantum Computing/1. Math/special matrices/rotational matrix.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/determinant.md",
+      "path": "Intro to Quantum Computing/1. Math/vectors and matrices/determinant.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/transformation matrix.md",
+      "path": "Intro to Quantum Computing/1. Math/special matrices/transformation matrix.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/dual bases.md",
+      "path": "Intro to Quantum Computing/1. Math/vector spaces/dual base.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
-      "path": "Intro to Quantum Computing/1. Math/matrix multiplication.md",
-      "color": "wo3iGDwTJhpHcIr0hpJpO"
-    },
-    {
-      "path": "Intro to Quantum Computing/1. Math/transpose.md",
+      "path": "Intro to Quantum Computing/1. Math/vectors and matrices/transpose.md",
       "color": "wo3iGDwTJhpHcIr0hpJpO"
     },
     {
@@ -521,7 +517,7 @@
       "color": "D_9TiMY4TKTCilaukDdhB"
     },
     {
-      "path": "Concepts of C++ Programming/Exercise/Exercise Setup.md",
+      "path": "Concepts of C++ Programming/Exercise/Assignment Setup.md",
       "color": "D_9TiMY4TKTCilaukDdhB"
     },
     {
@@ -535,6 +531,182 @@
     {
       "path": "Concepts of C++ Programming/2.1 Basic Syntax.md",
       "color": "ksh9mKuQvLntc_BsgTAB_"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/trigonometry/trigonometric functions.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "colors.md",
+      "color": "eVysdvDbQ2c6LagFwycEE"
+    },
+    {
+      "path": "Intro to Quantum Computing/pondering-my-bloch-sphere.png",
+      "color": "eVysdvDbQ2c6LagFwycEE"
+    },
+    {
+      "path": "Intro to Quantum Computing/pondering-my-orb-monkey-swimming.gif",
+      "color": "eVysdvDbQ2c6LagFwycEE"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vector spaces/vector space.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vectors and matrices/trace.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/complex numbers/complex conjugate.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/complex numbers",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/special matrices",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/trigonometry",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vector spaces",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vectors and matrices",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/special matrices/conjugate transpose.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/special matrices/Hermitian matrix.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/special matrices/unitary matrix.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/special matrices/normal matrix.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/special matrices/orthogonal projection matrix.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/complex numbers/polar form.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/eigenstuff",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vector spaces/dual space.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/complex numbers/antilinear function.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vectors and matrices/inner product.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vectors and matrices/norm.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/eigenstuff/eigenvalues and eigenvectors.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vector spaces/null space.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vector spaces/bra-ket notation.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/eigenstuff/eigenspace.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/eigenstuff/spectral decomposition.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/eigenstuff/spectral radius.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/eigenstuff/singular value decomposition.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vectors and matrices/matrix exponential.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/trigonometry/generalized Euler's formula.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/calculus",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/calculus/exponential function.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/calculus/Taylor series.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vectors and matrices/inverse.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/special matrices/z-y decomposition.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Intro to Quantum Computing/Exercise",
+      "color": "D_9TiMY4TKTCilaukDdhB"
+    },
+    {
+      "path": "Intro to Quantum Computing/Exercise/Sheet 1.md",
+      "color": "D_9TiMY4TKTCilaukDdhB"
+    },
+    {
+      "path": "Intro to Quantum Computing/1. Math/vectors and matrices/involutory matrix.md",
+      "color": "wo3iGDwTJhpHcIr0hpJpO"
+    },
+    {
+      "path": "Concepts of C++ Programming/2.2 Object Model.md",
+      "color": "ksh9mKuQvLntc_BsgTAB_"
+    },
+    {
+      "path": "Concepts of C++ Programming/Exercise/Assignment 01.md",
+      "color": "D_9TiMY4TKTCilaukDdhB"
+    },
+    {
+      "path": "Networks for Monetary Transactions/Info.md",
+      "color": "D_9TiMY4TKTCilaukDdhB"
+    },
+    {
+      "path": "Networks for Monetary Transactions/1. Banking system and financial institutes.md",
+      "color": "UgqQ5ACnODCVx8kjfXPcB"
     }
   ]
 }

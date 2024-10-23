@@ -1,0 +1,1 @@
+$P \in \mathbb{C}^{n \times n}$ that is a [[Hermitian matrix]] and for which $P^{2} = P$

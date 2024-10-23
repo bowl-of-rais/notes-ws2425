@@ -9,4 +9,6 @@ y &= r \sin \varphi
 
 ![[gray_Polar_to_cartesian.svg.png|400]]
 
+see [[polar form]]
+
 [Wikipedia](https://en.wikipedia.org/wiki/Polar_coordinate_system)

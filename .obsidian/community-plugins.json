@@ -10,11 +10,12 @@
   "image-captions",
   "obsidian-advanced-codeblock",
   "emoji-autocomplete",
-  "obsidian-embedded-code-title",
   "typst",
   "advanced-canvas",
   "d2-obsidian",
   "arrows-in-md",
   "obsidian-link-embed",
-  "obsidian-diagrams-net"
+  "obsidian-diagrams-net",
+  "code-styler",
+  "webpage-html-export"
 ]

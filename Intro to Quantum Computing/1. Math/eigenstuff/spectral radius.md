@@ -1,0 +1,1 @@
+largest absolute value of [eigenvalues](eigenvalues%20and%20eigenvectors.md) of square matrix $A \in \mathbb{C}^{n \times n}$: $$\rho(A) = \max \{\vert{\lambda_{1}}\vert , \dots, \vert{\lambda_{n}}\vert \}$$

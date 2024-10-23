@@ -6,4 +6,4 @@
 - yes retake
 
 
-- [ ] TODO go through linalg cheatsheet 📅 2024-10-23 
+- [x] TODO go through linalg cheatsheet 📅 2024-10-23 ✅ 2024-10-18

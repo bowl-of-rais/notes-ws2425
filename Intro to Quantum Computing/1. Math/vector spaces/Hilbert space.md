@@ -2,8 +2,8 @@
 >
 
 formally:
-- a vector space
-- with an inner product that induces a distance function for which the space is a complete metric space[^1]
+- a [[vector space]]
+- with an [[inner product]] that induces a distance function for which the space is a complete metric space[^1]
 
 this is because we use [[complex numbers]] (Euclidean spaces are defined over $\mathbb{R}$)
 

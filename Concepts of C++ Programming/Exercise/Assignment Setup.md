@@ -21,7 +21,12 @@ After that you can verify that your public key was added by running `ssh git@cpp
 
 ### Clone the assignment repository
 
-First, you have to clone the repository for the respective assignment by running `git clone git@cppprog.db.in.tum.de:assignments/<your username>/a00`.
+First, you have to clone the repository for the respective assignment by running 
+
+```bash
+git clone git@cppprog.db.in.tum.de:assignments/ge25god/a00
+```
+
 Using the same username, that you provided during registration, will create a folder `a00` in your current directory (exchange `a00` for later assignments).
 The folder contains a starting point for your solution.
 
@@ -29,8 +34,19 @@ The folder contains a starting point for your solution.
 
 As the solution evaluation on our test servers might not finish before the deadline, it is __important__ that you test your solution locally beforehand.
 For that matter, we provide a docker file that sets up the exact same environment that we use for testing.
-Build the docker image that comes with the assignment template with `docker build . -t cppprog`.
-Next, you can execute `docker run --rm -v $PWD/:/homework cppprog /homework/assessment.sh` inside your homework folder to run the evaluation in the exact same environment as we do during evaluation.
+Build the docker image that comes with the assignment template with 
+
+```bash
+docker build . -t cppprog
+```
+
+Next, you can execute 
+
+```bash
+docker run --rm -v $PWD/:/homework cppprog /homework/assessment.sh
+``` 
+
+inside your homework folder to run the evaluation in the exact same environment as we do during evaluation.
 
 > Get familiar with developing it that environment, as we will use the same setup for the exam as well
 
@@ -46,4 +62,15 @@ Only upload your source code and the cmake setup, refrain from uploading any bin
 
 ### Get your Points / Look into the Logs
 
-After you handed in your solution, it will be enqueued and eventually evaluation with our test runner. Once your solution was tested (expect a delay of up to a week), we will upload the received points and respective logs to our database. You can check your received points with the `ssh git@cppprog.db.in.tum.de points` command and look into the logs using `ssh git@cppprog.db.in.tum.de logs a00`.
+After you handed in your solution, it will be enqueued and eventually evaluation with our test runner. Once your solution was tested (expect a delay of up to a week), we will upload the received points and respective logs to our database. You can check your received points with the 
+
+```bash
+ssh git@cppprog.db.in.tum.de points
+```
+
+command and look into the logs using 
+
+```bash
+ssh git@cppprog.db.in.tum.de logs a00
+```
+.
