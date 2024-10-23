@@ -16,21 +16,18 @@ concurrency:
  
 jobs:
 
-  copy-to-branches:
+  copy:
+    name: Copy contents
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-      - name: Copy To Branches Action
-        uses: planetoftheweb/copy-to-branches@v1
+      - name: copy
         env:
-          key: main
-          files: content/
-          branches: quartz-q4
+          SRC_FOLDER_PATH: 'content'
+          TARGET_BRANCH: 'quartz-v4'
 
   build:
-    needs: copy-to-branches
+    needs: copy
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
