@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "9a28cf91b2b9ecde",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0e41a9d34c4c602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ee071dd724e8c46",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0f2893a5abcec2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ac77e889d8163b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "538cb8274cca1679",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "63be41489062b6cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c8eee0de680f49cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a1f094c8fa356fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6119e2a5597c22ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d217923b35831c97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4972d48baaa8abd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "60e992b471a4459a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "72bd31fda0001934",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ee071dd724e8c46",
+  "lastOpenFiles": [
+    "TODOs.md",
+    "Networks for Monetary Transactions/Untitled.md",
+    "Networks for Monetary Transactions/Info.md",
+    "Networks for Monetary Transactions/2. Payment schemes.md",
+    "Networks for Monetary Transactions/1. Banking system and financial institutes.md",
+    "Networks for Monetary Transactions",
+    "LLMs & Human Language Use/Session 1.md",
+    "LLMs & Human Language Use/Papers.md",
+    "LLMs & Human Language Use/Info.md",
+    "LLMs & Human Language Use",
+    "Intro to Quantum Computing/pondering-my-orb-monkey-swimming.gif",
+    "Intro to Quantum Computing/pondering-my-bloch-sphere.png",
+    "Intro to Quantum Computing/Info.md",
+    "Intro to Quantum Computing/Exercise/Sheet 1.md",
+    "Intro to Quantum Computing/Exercise",
+    "Intro to Quantum Computing/3. Entanglement and its applications/Untitled.md",
+    "Intro to Quantum Computing/3. Entanglement and its applications",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/small_Bloch_sphere.svg.png",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_sphere_rotation.png",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuithadamard.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuithadamard.drawio.png",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuithadamard.drawio",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuitgate.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/circuitgate.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuitgate.drawio",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/circuitgate.drawio",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/circuit2.drawio",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/circuit2.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/circuit1.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/circuit1.drawio",
+    "Intro to Quantum Computing/2. Basic Concepts/assets",
+    "Intro to Quantum Computing/2. Basic Concepts/2.6 The Heisenberg uncertainty principle.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.5 Quantum measurement.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.4 Multiple qubit gates.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.3 Multiple qubits.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.2 Single qubit gates.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/transpose.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/trace.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/norm.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/matrix exponential.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/involutory matrix.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/inverse.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/inner product.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/determinant.md",
+    "Intro to Quantum Computing/1. Math/vector spaces/vector space.md"
+  ]
+}

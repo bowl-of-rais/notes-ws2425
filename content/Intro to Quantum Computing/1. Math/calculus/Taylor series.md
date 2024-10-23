@@ -1,0 +1,1 @@
+**Taylor series/expansion** of a real or complex-valued function $f(x)$ that is infinitely differentiable at real or complex number $a$ is $$\sum\limits_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} (x-a)^{n}$$
