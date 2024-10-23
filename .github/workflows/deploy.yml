@@ -15,21 +15,21 @@ concurrency:
   cancel-in-progress: false
  
 jobs:
-  sync-branch:
+
+  merge-branch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@master
 
       - name: Merge main -> quartz-v4
         uses: devmasx/merge-branch@master
         with:
           type: now
-          from_branch: main
           target_branch: quartz-v4
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
   build:
-    needs: sync-branch
+    needs: merge-branch
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
