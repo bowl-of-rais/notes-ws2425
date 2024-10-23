@@ -30,7 +30,7 @@ jobs:
       - name: Fetch file from main
         run: |
            git fetch origin main:main --force
-           git show main:content/ > content/
+           git show main:content/* > content/*
            git diff 
       - name: Install Dependencies
         run: npm ci
