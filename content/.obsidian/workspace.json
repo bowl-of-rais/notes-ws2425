@@ -1,20 +1,66 @@
 {
   "main": {
-    "id": "9a28cf91b2b9ecde",
+    "id": "f8d74883b3772cf5",
     "type": "split",
     "children": [
       {
-        "id": "d0e41a9d34c4c602",
+        "id": "05fee9515139bc8b",
         "type": "tabs",
         "children": [
           {
-            "id": "9ee071dd724e8c46",
+            "id": "47161506b7b4552a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2.1 Quantum bits"
+            }
+          },
+          {
+            "id": "56a6a9bc26678a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODOs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODOs"
+            }
+          },
+          {
+            "id": "2e3f63bdc3a5962f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Quantum Computing/2. Basic Concepts/2.2 Single qubit gates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 Single qubit gates"
+            }
+          },
+          {
+            "id": "fa608bd052c40357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -23,32 +69,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c0f2893a5abcec2e",
+    "id": "63fff9554296a826",
     "type": "split",
     "children": [
       {
-        "id": "48ac77e889d8163b",
+        "id": "b579282cc19c1a30",
         "type": "tabs",
         "children": [
           {
-            "id": "538cb8274cca1679",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "63be41489062b6cf",
+            "id": "f97270d043fae31a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#qubits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +94,7 @@
             }
           },
           {
-            "id": "c8eee0de680f49cd",
+            "id": "3045eb4634536b98",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,28 +102,42 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "27d30f35f8c3879d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "right": {
-    "id": "7a1f094c8fa356fb",
+    "id": "f4e7b405e0ddf651",
     "type": "split",
     "children": [
       {
-        "id": "6119e2a5597c22ce",
+        "id": "20e25fff190738e2",
         "type": "tabs",
         "children": [
           {
-            "id": "d217923b35831c97",
+            "id": "df2d9ad402c40518",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "index.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -98,24 +146,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
-            "id": "4972d48baaa8abd3",
+            "id": "1b27d76d45b79898",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Intro to Quantum Computing/1. Math/complex numbers/complex numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from complex numbers"
             }
           },
           {
-            "id": "60e992b471a4459a",
+            "id": "1300c6f0134c5a38",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,20 +177,46 @@
             }
           },
           {
-            "id": "72bd31fda0001934",
+            "id": "5f897c6b27de7b3e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Intro to Quantum Computing/1. Math/complex numbers/complex numbers.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of complex numbers"
+            }
+          },
+          {
+            "id": "7cd71430fed651bd",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          },
+          {
+            "id": "e6ddf8810adb9543",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -151,56 +226,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "callout-manager:Insert Callout": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9ee071dd724e8c46",
+  "active": "47161506b7b4552a",
   "lastOpenFiles": [
+    "Task Archive.md",
     "TODOs.md",
-    "Networks for Monetary Transactions/Untitled.md",
-    "Networks for Monetary Transactions/Info.md",
-    "Networks for Monetary Transactions/2. Payment schemes.md",
-    "Networks for Monetary Transactions/1. Banking system and financial institutes.md",
-    "Networks for Monetary Transactions",
-    "LLMs & Human Language Use/Session 1.md",
-    "LLMs & Human Language Use/Papers.md",
-    "LLMs & Human Language Use/Info.md",
-    "LLMs & Human Language Use",
-    "Intro to Quantum Computing/pondering-my-orb-monkey-swimming.gif",
-    "Intro to Quantum Computing/pondering-my-bloch-sphere.png",
-    "Intro to Quantum Computing/Info.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.2 Single qubit gates.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md",
+    "index.md",
     "Intro to Quantum Computing/Exercise/Sheet 1.md",
-    "Intro to Quantum Computing/Exercise",
+    "Intro to Quantum Computing/Info.md",
+    "LLMs & Human Language Use/Papers.md",
+    "Intro to Quantum Computing/1. Math/trigonometry/pythagorean trigonometric identity.md",
+    "LLMs & Human Language Use/Session 1.md",
+    "LLMs & Human Language Use/Info.md",
+    "Cloud-Based Data Processing/Orga.md",
+    "Cloud-Based Data Processing/1. Introduction.md",
+    "Cloud-Based Data Processing/2. Cloud-based application challenges.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/determinant.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/inverse.md",
+    "Intro to Quantum Computing/1. Math/complex numbers/complex numbers.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/transpose.md",
+    "Intro to Quantum Computing/1. Math/complex numbers/complex conjugate.md",
+    "Intro to Quantum Computing/1. Math/special matrices/unitary matrix.md",
     "Intro to Quantum Computing/3. Entanglement and its applications/Untitled.md",
-    "Intro to Quantum Computing/3. Entanglement and its applications",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/small_Bloch_sphere.svg.png",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_sphere_rotation.png",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuithadamard.drawio.svg",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuithadamard.drawio.png",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuithadamard.drawio",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuitgate.drawio.svg",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/circuitgate.drawio.svg",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_circuitgate.drawio",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/circuitgate.drawio",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/circuit2.drawio",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/circuit2.drawio.svg",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/circuit1.drawio.svg",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/circuit1.drawio",
-    "Intro to Quantum Computing/2. Basic Concepts/assets",
     "Intro to Quantum Computing/2. Basic Concepts/2.6 The Heisenberg uncertainty principle.md",
     "Intro to Quantum Computing/2. Basic Concepts/2.5 Quantum measurement.md",
     "Intro to Quantum Computing/2. Basic Concepts/2.4 Multiple qubit gates.md",
-    "Intro to Quantum Computing/2. Basic Concepts/2.3 Multiple qubits.md",
-    "Intro to Quantum Computing/2. Basic Concepts/2.2 Single qubit gates.md",
-    "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md",
-    "Intro to Quantum Computing/1. Math/vectors and matrices/transpose.md",
     "Intro to Quantum Computing/1. Math/vectors and matrices/trace.md",
     "Intro to Quantum Computing/1. Math/vectors and matrices/norm.md",
-    "Intro to Quantum Computing/1. Math/vectors and matrices/matrix exponential.md",
-    "Intro to Quantum Computing/1. Math/vectors and matrices/involutory matrix.md",
-    "Intro to Quantum Computing/1. Math/vectors and matrices/inverse.md",
-    "Intro to Quantum Computing/1. Math/vectors and matrices/inner product.md",
-    "Intro to Quantum Computing/1. Math/vectors and matrices/determinant.md",
-    "Intro to Quantum Computing/1. Math/vector spaces/vector space.md"
+    "docs",
+    "Concepts of C++ Programming/assets",
+    "Concepts of C++ Programming/assets/Pasted image 20241021144342.png",
+    "Intro to Quantum Computing/1. Math/assets/A_plus_bi.svg.png",
+    "Intro to Quantum Computing/Exercise",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_sphere_rotation.png",
+    "Intro to Quantum Computing/1. Math/calculus",
+    "Intro to Quantum Computing/1. Math/assets/gray_cosine_norm.png",
+    "Intro to Quantum Computing/1. Math/eigenstuff",
+    "Intro to Quantum Computing/1. Math/vectors and matrices",
+    "Intro to Quantum Computing/1. Math/trigonometry",
+    "Intro to Quantum Computing/1. Math/vector spaces",
+    "Intro to Quantum Computing/1. Math/complex numbers",
+    "Intro to Quantum Computing/1. Math/special matrices",
+    "Intro to Quantum Computing/1. Math/assets/Complex_conjugate_picture.svg.png",
+    "Intro to Quantum Computing/1. Math/Sine_cosine_one_period.svg.png",
+    "Intro to Quantum Computing/1. Math/assets/gray_Sine_cosine_one_period.png",
+    "Intro to Quantum Computing/1. Math/assets/gray_Unit_circle_angles_color.svg.png",
+    "Intro to Quantum Computing/1. Math/assets/Unit_circle_angles_color.svg.png",
+    "Intro to Quantum Computing/pondering-my-orb-monkey-swimming.gif",
+    "notes/Data Structure Engineering/Summary/OVERVIEW.canvas",
+    "notes/DBS + moderne CPU-Architekturen/Summary/OVERVIEW.canvas"
   ]
 }

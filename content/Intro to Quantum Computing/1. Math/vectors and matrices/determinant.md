@@ -5,6 +5,6 @@ for square matrix $A \in \mathbb{C}^{n\times n}$: $$\det(A) = \sum\limits_{\sigm
 ### Properties
 
 - $A$ invertible iff $\det(A) \neq 0$
-- $\det(A^*) = \det(A^*)$
+- $\det(A^*) = \det(A)^*$
 - $\det(A^{T}) = \det(A)$
 - $\forall A, B \in \mathbb{C}^{n \times n}: \det(AB) = \det(A) \det(B)$

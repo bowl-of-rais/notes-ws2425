@@ -1,1 +1,9 @@
-{}
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "canvas_colors",
+    "center_images"
+  ]
+}

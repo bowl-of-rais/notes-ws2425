@@ -1,0 +1,11 @@
+{
+  "obsidian-task-archiver:toggle-done-and-archive": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
+}
