@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md",
+                "file": "Intro to Quantum Computing/2. Basic Concepts/2.3 Multiple qubits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Quantum bits"
+              "title": "2.3 Multiple qubits"
             }
           },
           {
@@ -233,20 +233,23 @@
   },
   "active": "47161506b7b4552a",
   "lastOpenFiles": [
+    "Intro to Quantum Computing/2. Basic Concepts/2.4 Multiple qubit gates.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.3 Multiple qubits.md",
+    "Cloud-Based Data Processing/2. Cloud-based application challenges.md",
+    "Cloud-Based Data Processing/Orga.md",
+    "Intro to Quantum Computing/Exercise/Sheet 1.md",
+    "Intro to Quantum Computing/Info.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md",
+    "Intro to Quantum Computing/Exercise/Indeterminacy_principle.gif",
     "Task Archive.md",
     "TODOs.md",
     "Intro to Quantum Computing/2. Basic Concepts/2.2 Single qubit gates.md",
-    "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md",
     "index.md",
-    "Intro to Quantum Computing/Exercise/Sheet 1.md",
-    "Intro to Quantum Computing/Info.md",
     "LLMs & Human Language Use/Papers.md",
     "Intro to Quantum Computing/1. Math/trigonometry/pythagorean trigonometric identity.md",
     "LLMs & Human Language Use/Session 1.md",
     "LLMs & Human Language Use/Info.md",
-    "Cloud-Based Data Processing/Orga.md",
     "Cloud-Based Data Processing/1. Introduction.md",
-    "Cloud-Based Data Processing/2. Cloud-based application challenges.md",
     "Intro to Quantum Computing/1. Math/vectors and matrices/determinant.md",
     "Intro to Quantum Computing/1. Math/vectors and matrices/inverse.md",
     "Intro to Quantum Computing/1. Math/complex numbers/complex numbers.md",
@@ -256,9 +259,7 @@
     "Intro to Quantum Computing/3. Entanglement and its applications/Untitled.md",
     "Intro to Quantum Computing/2. Basic Concepts/2.6 The Heisenberg uncertainty principle.md",
     "Intro to Quantum Computing/2. Basic Concepts/2.5 Quantum measurement.md",
-    "Intro to Quantum Computing/2. Basic Concepts/2.4 Multiple qubit gates.md",
     "Intro to Quantum Computing/1. Math/vectors and matrices/trace.md",
-    "Intro to Quantum Computing/1. Math/vectors and matrices/norm.md",
     "docs",
     "Concepts of C++ Programming/assets",
     "Concepts of C++ Programming/assets/Pasted image 20241021144342.png",
@@ -278,7 +279,6 @@
     "Intro to Quantum Computing/1. Math/assets/gray_Sine_cosine_one_period.png",
     "Intro to Quantum Computing/1. Math/assets/gray_Unit_circle_angles_color.svg.png",
     "Intro to Quantum Computing/1. Math/assets/Unit_circle_angles_color.svg.png",
-    "Intro to Quantum Computing/pondering-my-orb-monkey-swimming.gif",
     "notes/Data Structure Engineering/Summary/OVERVIEW.canvas",
     "notes/DBS + moderne CPU-Architekturen/Summary/OVERVIEW.canvas"
   ]
