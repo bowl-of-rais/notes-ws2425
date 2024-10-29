@@ -1,6 +1,6 @@
 - [x] TODO get clion to understand the targets 📅 2024-10-23 ✅ 2024-10-21
-- [ ] TODO understand tasks + make tasks lists 📅 2024-10-23 
-- [ ] TODO complete assignment 📅 2024-10-27
+- [x] TODO understand tasks + make tasks lists 📅 2024-10-23 ✅ 2024-10-25
+- [x] TODO complete assignment 📅 2024-10-27 ✅ 2024-10-25
 
 
 # Mandelbrot

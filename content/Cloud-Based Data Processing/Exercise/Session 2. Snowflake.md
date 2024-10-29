@@ -1,0 +1,6 @@
+- [ ] TODO read paper 📅 2024-10-27 
+- [x] TODO section 1 📅 2024-10-28 ✅ 2024-10-28
+- [ ] TODO section 2 📅 2024-10-29 
+- [ ] TODO section 3 📅 2024-10-30 
+- [ ] TODO section 4 📅 2024-10-30 
+- [ ] TODO phrase sentences 📅 2024-10-31 

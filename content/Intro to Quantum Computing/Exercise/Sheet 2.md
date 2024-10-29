@@ -1,0 +1,2 @@
+- [ ] TODO try exercises 📅 2024-10-31 
+- [ ] TODO do homeworks 📅 2024-11-04 

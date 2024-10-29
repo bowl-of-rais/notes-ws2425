@@ -13,7 +13,13 @@ Get comfortable with the system as we will not only use it for the homework assi
 Go to [https://cppprog.db.in.tum.de/concepts-of-cxx](https://cppprog.db.in.tum.de/concepts-of-cxx) and provide your LRZ id (e.g. `ge32jot`) as username, the corresponding password and an ssh public key.
 In case you are not familiar with SSH and don't know how to generate and use SSH key pairs, this provides [a great introduction](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 After you added your user and key, it might take up to one a few minutes for the changes to take affect.
-After that you can verify that your public key was added by running `ssh git@cppprog.db.in.tum.de help`, as this provides you with a small overview of the available repositories on the git server and your permissions for them.
+After that you can verify that your public key was added by running 
+
+```{bash}
+ssh git@cppprog.db.in.tum.de help
+```
+
+, as this provides you with a small overview of the available repositories on the git server and your permissions for them.
 
 > You can register the same user multiple times to add __different__ ssh keys for your user (up to five different keys)
 

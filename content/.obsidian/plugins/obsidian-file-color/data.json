@@ -501,14 +501,6 @@
       "color": "D_9TiMY4TKTCilaukDdhB"
     },
     {
-      "path": "Cloud-Based Data Processing/Exercise/Session 1. Onboarding.md",
-      "color": "Hswdh9EYUsVCBRWQ9hc8I"
-    },
-    {
-      "path": "Cloud-Based Data Processing/Exercise/Overview.md",
-      "color": "Hswdh9EYUsVCBRWQ9hc8I"
-    },
-    {
       "path": "Concepts of C++ Programming",
       "color": "ksh9mKuQvLntc_BsgTAB_"
     },
@@ -727,6 +719,14 @@
     {
       "path": "Intro to Quantum Computing/Exercise/Indeterminacy_principle.gif",
       "color": "eVysdvDbQ2c6LagFwycEE"
+    },
+    {
+      "path": "Semantics",
+      "color": "UC_JaIIooddMaAt-adIGS"
+    },
+    {
+      "path": "Semantics/Exercise",
+      "color": "D_9TiMY4TKTCilaukDdhB"
     }
   ]
 }
