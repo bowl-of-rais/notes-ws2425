@@ -45,6 +45,9 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "/home/rai/Uni/ws2425/notes-ws2425/docs",
   "filesToExport": [
-    []
+    [
+      "Intro to Quantum Computing",
+      "index.md"
+    ]
   ]
 }
