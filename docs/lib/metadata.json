@@ -1,14 +1,14 @@
 {
   "vaultName": "notes-ws2425",
-  "lastExport": 1730218777657,
+  "lastExport": 1730219701120,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon code-styler code-styler-style-inline code-styler-gutter-highlight",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Intro to Quantum Computing/pondering-my-orb-monkey-swimming.gif",
-    "Intro to Quantum Computing/Info.md",
     "Intro to Quantum Computing/pondering-my-bloch-sphere.png",
+    "Intro to Quantum Computing/Info.md",
     "Intro to Quantum Computing/Exercise/Sheet 2.md",
     "Intro to Quantum Computing/Exercise/Sheet 1.md",
     "Intro to Quantum Computing/Exercise/Indeterminacy_principle.gif",
@@ -42,9 +42,9 @@
     "Intro to Quantum Computing/1. Math/vectors and matrices/inverse.md",
     "Intro to Quantum Computing/1. Math/vectors and matrices/inner product.md",
     "Intro to Quantum Computing/1. Math/vectors and matrices/determinant.md",
-    "Intro to Quantum Computing/1. Math/vector spaces/tensor product.md",
     "Intro to Quantum Computing/1. Math/vector spaces/vector space.md",
     "Intro to Quantum Computing/1. Math/vector spaces/unitary operators.md",
+    "Intro to Quantum Computing/1. Math/vector spaces/tensor product.md",
     "Intro to Quantum Computing/1. Math/vector spaces/null space.md",
     "Intro to Quantum Computing/1. Math/vector spaces/dual space.md",
     "Intro to Quantum Computing/1. Math/vector spaces/dual base.md",
@@ -90,13 +90,6 @@
     "Intro to Quantum Computing/1. Math/assets/A_plus_bi.svg.png",
     "Intro to Quantum Computing/1. Math/assets/3D_Spherical.svg.png",
     "index.md",
-    "lib/media/pondering-my-bloch-sphere.png",
-    "lib/media/gray_cosine_norm.png",
-    "lib/media/gray_sine_cosine_one_period.png",
-    "lib/media/gray_3d_spherical.svg.png",
-    "lib/media/gray_polar_to_cartesian.svg.png",
-    "lib/media/gray_euler's_formula.svg.png",
-    "lib/media/gray_complex_number_illustration_modarg.svg.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -149,12 +142,20 @@
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css",
+    "intro-to-quantum-computing/exercise/indeterminacy_principle.gif",
     "intro-to-quantum-computing/2.-basic-concepts/assets/gray_circuitgate.drawio.svg",
     "intro-to-quantum-computing/2.-basic-concepts/assets/gray_circuithadamard.drawio.png",
     "intro-to-quantum-computing/2.-basic-concepts/assets/gray_sphere_rotation.png",
     "intro-to-quantum-computing/2.-basic-concepts/assets/circuit1.drawio.svg",
     "intro-to-quantum-computing/2.-basic-concepts/assets/circuit2.drawio.svg",
-    "intro-to-quantum-computing/2.-basic-concepts/assets/bloch_sphere_grey.svg.png"
+    "intro-to-quantum-computing/2.-basic-concepts/assets/bloch_sphere_grey.svg.png",
+    "lib/media/pondering-my-bloch-sphere.png",
+    "lib/media/gray_cosine_norm.png",
+    "lib/media/gray_sine_cosine_one_period.png",
+    "lib/media/gray_3d_spherical.svg.png",
+    "lib/media/gray_polar_to_cartesian.svg.png",
+    "lib/media/gray_euler's_formula.svg.png",
+    "lib/media/gray_complex_number_illustration_modarg.svg.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -492,7 +493,7 @@
       "dependencies": []
     },
     "Intro to Quantum Computing/1. Math/vectors and matrices/determinant.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 457,
       "exportedPath": "intro-to-quantum-computing/1.-math/vectors-and-matrices/determinant.html",
       "dependencies": []
@@ -608,7 +609,7 @@
       "dependencies": []
     },
     "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 3147,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/2.1-quantum-bits.html",
       "dependencies": [
@@ -619,7 +620,7 @@
       ]
     },
     "Intro to Quantum Computing/2. Basic Concepts/2.2 Single qubit gates.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 5357,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/2.2-single-qubit-gates.html",
       "dependencies": [
@@ -629,13 +630,13 @@
       ]
     },
     "Intro to Quantum Computing/2. Basic Concepts/2.3 Multiple qubits.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 2762,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/2.3-multiple-qubits.html",
       "dependencies": []
     },
     "Intro to Quantum Computing/2. Basic Concepts/2.4 Multiple qubit gates.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 53,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/2.4-multiple-qubit-gates.html",
       "dependencies": []
@@ -659,7 +660,7 @@
       "dependencies": []
     },
     "Intro to Quantum Computing/Exercise/Sheet 1.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 850,
       "exportedPath": "intro-to-quantum-computing/exercise/sheet-1.html",
       "dependencies": [
@@ -667,7 +668,7 @@
       ]
     },
     "Intro to Quantum Computing/Info.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 169,
       "exportedPath": "intro-to-quantum-computing/info.html",
       "dependencies": []
@@ -685,8 +686,8 @@
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1730218777657,
-      "sourceSize": 102,
+      "modifiedTime": 1730219701120,
+      "sourceSize": 126,
       "exportedPath": "index.html",
       "dependencies": []
     },
@@ -727,367 +728,367 @@
       "dependencies": []
     },
     "intro-to-quantum-computing/2.-basic-concepts/assets/circuit1.drawio.svg": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 10806,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/assets/circuit1.drawio.svg",
       "dependencies": []
     },
     "intro-to-quantum-computing/2.-basic-concepts/assets/circuit2.drawio.svg": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 12527,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/assets/circuit2.drawio.svg",
       "dependencies": []
     },
     "intro-to-quantum-computing/2.-basic-concepts/assets/bloch_sphere_grey.svg.png": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 3490693,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/assets/bloch_sphere_grey.svg.png",
       "dependencies": []
     },
     "lib/media/pondering-my-bloch-sphere.png": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 249160,
       "exportedPath": "lib/media/pondering-my-bloch-sphere.png",
       "dependencies": []
     },
     "intro-to-quantum-computing/2.-basic-concepts/assets/gray_circuitgate.drawio.svg": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 25322,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/assets/gray_circuitgate.drawio.svg",
       "dependencies": []
     },
     "intro-to-quantum-computing/2.-basic-concepts/assets/gray_circuithadamard.drawio.png": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 250282,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/assets/gray_circuithadamard.drawio.png",
       "dependencies": []
     },
     "intro-to-quantum-computing/2.-basic-concepts/assets/gray_sphere_rotation.png": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 2841627,
       "exportedPath": "intro-to-quantum-computing/2.-basic-concepts/assets/gray_sphere_rotation.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 40257,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1730218777657,
-      "sourceSize": 5743,
+      "modifiedTime": 1730219701120,
+      "sourceSize": 5748,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 131134,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1730218777657,
-      "sourceSize": 87545,
+      "modifiedTime": 1730219701120,
+      "sourceSize": 76406,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219701120,
       "sourceSize": 247,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
     "Intro to Quantum Computing/Exercise/Sheet 2.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 110,
       "exportedPath": "intro-to-quantum-computing/exercise/sheet-2.html",
       "dependencies": []
     },
     "Intro to Quantum Computing/Exercise/Indeterminacy_principle.gif": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 12323036,
       "exportedPath": "intro-to-quantum-computing/exercise/indeterminacy_principle.gif",
       "dependencies": []
@@ -1117,19 +1118,19 @@
       "dependencies": []
     },
     "Intro to Quantum Computing/1. Math/vector spaces/tensor product.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 3954,
       "exportedPath": "intro-to-quantum-computing/1.-math/vector-spaces/tensor-product.html",
       "dependencies": []
     },
     "Intro to Quantum Computing/1. Math/trigonometry/pythagorean trigonometric identity.md": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 41,
       "exportedPath": "intro-to-quantum-computing/1.-math/trigonometry/pythagorean-trigonometric-identity.html",
       "dependencies": []
     },
     "intro-to-quantum-computing/exercise/indeterminacy_principle.gif": {
-      "modifiedTime": 1730218777657,
+      "modifiedTime": 1730219413512,
       "sourceSize": 12323036,
       "exportedPath": "intro-to-quantum-computing/exercise/indeterminacy_principle.gif",
       "dependencies": []

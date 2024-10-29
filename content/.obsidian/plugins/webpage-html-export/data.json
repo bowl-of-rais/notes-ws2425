@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
-  "includePluginCSS": "obsidian-file-color\nobsidian-tasks-plugin\nobsidian-pandoc-reference-list\ncallout-manager\ncode-styler",
+  "includePluginCSS": "obsidian-tasks-plugin\nobsidian-pandoc-reference-list\ncode-styler\nsymbols-prettifier",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
