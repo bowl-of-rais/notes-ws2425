@@ -8,7 +8,8 @@
       "goal",
       "imp",
       "hyp",
-      "prob"
+      "prob",
+      "conc"
     ],
     "settings": {
       "info": [
@@ -122,6 +123,27 @@
         {
           "changes": {
             "color": "224, 190, 144"
+          }
+        }
+      ],
+      "conc": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-right"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "168, 233, 255"
           }
         }
       ]

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Intro to Quantum Computing/2. Basic Concepts/2.3 Multiple qubits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "56a6a9bc26678a54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODOs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODOs"
+              "title": "2.3 Multiple qubits"
             }
           },
           {
@@ -55,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TODOs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "TODOs"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,55 +218,55 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "47161506b7b4552a",
+  "active": "fa608bd052c40357",
   "lastOpenFiles": [
-    "index.md",
-    "Intro to Quantum Computing/1. Math/trigonometry/pythagorean trigonometric identity.md",
-    "Intro to Quantum Computing/1. Math/vector spaces/tensor product.md",
-    "Intro to Quantum Computing/1. Math/vectors and matrices/determinant.md",
-    "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md",
+    "Concepts of C++ Programming/3.3 Linker.md",
+    "Concepts of C++ Programming/3.2 Preprocessor.md",
+    "Concepts of C++ Programming/3. Compiler overview.md",
+    "Concepts of C++ Programming/3.1 Declarations and Definitions.md",
+    "Concepts of C++ Programming/Exercise/Assignment Setup.md",
+    "Concepts of C++ Programming/Exercise/Assignment 02.md",
+    "Concepts of C++ Programming/2.2 Object Model.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.4 Multiple qubit gates.md",
+    "Cloud-Based Data Processing/Exercise/Session 3..md",
+    "Cloud-Based Data Processing/Exercise/Session 2. Snowflake.md",
+    "Cloud-Based Data Processing/Exercise/Snowflake architecture.canvas",
+    "TODOs.md",
+    "Intro to Quantum Computing/1. Math/vector spaces/Kronecker product.md",
+    "Intro to Quantum Computing/1. Math/special matrices/conjugate transpose.md",
+    "Intro to Quantum Computing/assets/test.svg",
+    "Intro to Quantum Computing/assets",
+    "Intro to Quantum Computing/qiskit/test.py",
+    "Intro to Quantum Computing/qiskit",
+    "Intro to Quantum Computing/2. Basic Concepts/qiskit/test.py",
+    "Intro to Quantum Computing/2. Basic Concepts/qiskit",
+    "Intro to Quantum Computing/2. Basic Concepts/quiskit",
+    "Intro to Quantum Computing/2. Basic Concepts/qasm/quiskit",
+    "Intro to Quantum Computing/2. Basic Concepts/qasm/bell_state.qasm",
+    "Intro to Quantum Computing/2. Basic Concepts/qasm/bell_state.",
+    "Intro to Quantum Computing/2. Basic Concepts/qasm",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/multigatecircuit.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/3parallel.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/parallel_IY.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/parallel_gates.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/multi_ctrlU.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/ctrlZ.drawio.svg",
+    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_ctrlU.drawio.svg",
     "Intro to Quantum Computing/2. Basic Concepts/2.2 Single qubit gates.md",
+    "Intro to Quantum Computing/1. Math/vector spaces/tensor product.md",
     "Intro to Quantum Computing/2. Basic Concepts/2.3 Multiple qubits.md",
     "Intro to Quantum Computing/Exercise/Sheet 1.md",
+    "index.md",
+    "Intro to Quantum Computing/1. Math/special matrices/z-y decomposition.md",
     "Intro to Quantum Computing/Exercise/Sheet 2.md",
-    "Intro to Quantum Computing/2. Basic Concepts/2.4 Multiple qubit gates.md",
+    "Intro to Quantum Computing/1. Math/trigonometry/pythagorean trigonometric identity.md",
+    "Intro to Quantum Computing/1. Math/vectors and matrices/determinant.md",
+    "Intro to Quantum Computing/2. Basic Concepts/2.1 Quantum bits.md",
     "Semantics/Exercise/Exercise 2.md",
     "Semantics/Exercise/Exercise 1.md",
-    "Semantics/Exercise",
-    "Semantics",
-    "Concepts of C++ Programming/Exercise/Assignment 02.md",
-    "Cloud-Based Data Processing/Exercise/Untitled.canvas",
     "Cloud-Based Data Processing/4. Cloud computing.md",
-    "Cloud-Based Data Processing/3. Data centers.md",
     "Intro to Quantum Computing/Exercise/Indeterminacy_principle.gif",
-    "Task Archive.md",
-    "Intro to Quantum Computing/1. Math/calculus/Taylor series.md",
-    "Intro to Quantum Computing/1. Math/complex numbers/antilinear function.md",
-    "Intro to Quantum Computing/1. Math/complex numbers/complex conjugate.md",
-    "Intro to Quantum Computing/1. Math/complex numbers/complex numbers.md",
-    "Intro to Quantum Computing/1. Math/complex numbers/polar form.md",
-    "Intro to Quantum Computing/1. Math/eigenstuff/eigenspace.md",
-    "Intro to Quantum Computing/1. Math/eigenstuff/eigenvalues and eigenvectors.md",
-    "Intro to Quantum Computing/1. Math/eigenstuff/singular value decomposition.md",
-    "Intro to Quantum Computing/1. Math/eigenstuff/spectral decomposition.md",
-    "Intro to Quantum Computing/1. Math/eigenstuff/spectral radius.md",
-    "docs",
-    "Concepts of C++ Programming/assets",
     "Concepts of C++ Programming/assets/Pasted image 20241021144342.png",
-    "Intro to Quantum Computing/1. Math/assets/A_plus_bi.svg.png",
-    "Intro to Quantum Computing/Exercise",
-    "Intro to Quantum Computing/2. Basic Concepts/assets/gray_sphere_rotation.png",
-    "Intro to Quantum Computing/1. Math/calculus",
-    "Intro to Quantum Computing/1. Math/assets/gray_cosine_norm.png",
-    "Intro to Quantum Computing/1. Math/eigenstuff",
-    "Intro to Quantum Computing/1. Math/vectors and matrices",
-    "Intro to Quantum Computing/1. Math/trigonometry",
-    "Intro to Quantum Computing/1. Math/vector spaces",
-    "Intro to Quantum Computing/1. Math/assets/Complex_conjugate_picture.svg.png",
-    "Intro to Quantum Computing/1. Math/Sine_cosine_one_period.svg.png",
-    "Intro to Quantum Computing/1. Math/assets/gray_Sine_cosine_one_period.png",
-    "Intro to Quantum Computing/1. Math/assets/gray_Unit_circle_angles_color.svg.png",
-    "Intro to Quantum Computing/1. Math/assets/Unit_circle_angles_color.svg.png",
     "notes/Data Structure Engineering/Summary/OVERVIEW.canvas",
     "notes/DBS + moderne CPU-Architekturen/Summary/OVERVIEW.canvas"
   ]

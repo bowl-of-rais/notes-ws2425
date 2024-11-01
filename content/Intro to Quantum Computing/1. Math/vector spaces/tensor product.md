@@ -5,7 +5,7 @@ examples for our purposes:
 - $\vert 0\rangle \otimes \vert 0\rangle = \vert 00\rangle$
 
 >[!goal] See this [blog post](https://www.math3ma.com/blog/the-tensor-product-demystified) for a bit of an intuition. 
->TL;DR: tensor products are kinda like doing cartesian-style products with vectors (aka multiplying each entry of one vector with each entry of the others).
+>TL;DR: tensor products are kinda like doing cartesian-style products with vectors (aka multiplying each entry of one vector with each entry of the others) or a vector version of the [[Kronecker product]].
 >
 >This is similar to the [outer product](https://en.wikipedia.org/wiki/Outer_product), but the outer product results a matrix, and we really like our vectors (e.g. two-qubit states should still be vectors) - so we define this operation that gives us a vector (in typical mathematician "ich mach mir die Welt wie sie mir gefällt" fashion).
 
@@ -40,9 +40,13 @@ for $$\begin{align*}
 &= v_{1}w_{1} \vert 00\rangle + v_{1}w_{2} \vert 01\rangle + v_{2}w_{1} \vert 10\rangle + v_{2}w_{2} \vert 11\rangle 
 \end{align*}$$
 and using $$\vert 00\rangle = \begin{pmatrix}1\\0\\0\\0\end{pmatrix}, \vert 01\rangle = \begin{pmatrix}0\\1\\0\\0\end{pmatrix} , \vert 10\rangle = \begin{pmatrix}0\\0\\1\\0\end{pmatrix}, \vert 11\rangle = \begin{pmatrix}0\\0\\0\\1\end{pmatrix}$$we get $$\begin{pmatrix}{v_{1}}\\{v_{2}}\end{pmatrix} \otimes \begin{pmatrix}{w_{1}}\\{w_{2}}\end{pmatrix} = \begin{pmatrix}{v_{1}w_{1}}\\{v_{1}w_{2}}\\{v_{2}w_{1}}\\{v_{2}w_{2}}\end{pmatrix} $$
+##### General version
+$$\begin{pmatrix}{v_{1}}\\{\vdots}\\{v_{m}}\end{pmatrix} \otimes \begin{pmatrix}{w_{1}}\\{\vdots}\\{w_{n}}\end{pmatrix} = \begin{pmatrix}{v_{1}w_{1}}\\{\vdots}\\{v_{1}w_{n}}\\\vdots\\{v_{m}w_{1}}\\{\vdots}\\{v_{m}w_{n}}\end{pmatrix}$$
+
 # Inner product
 
 if $V, W$ have inner products $\langle{\cdot}\vert \cdot \rangle$, an inner product on $V \otimes W$ can be defined by $$\left\langle \sum\limits_{j} \alpha_{j} \vert{v_{j}}\rangle \vert{w_{j}}\rangle \middle\vert \sum\limits_{k}\beta_{k} \vert{\tilde{v}_{k}}\rangle \vert{\tilde{w}_k}\rangle \right\rangle := \sum\limits_{j} \sum\limits_{k} \alpha^{*}_{j} \beta_{k} \langle{v_{j}}\vert{\tilde{v}_{k}}\rangle \langle{w_{j}}\vert{\tilde{w}_{k}}\rangle $$
+-> combine inner products in $V$ and $W$ spaces
 
 
 ----
